@@ -155,5 +155,59 @@
   <ItemGroup>
     <None Include="Resources\images.jfif" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20200910_HU1gtXQprtK1bEWGMuWefSyq.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ca-vang-bach-dinh-hong-300x200.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gioi-thieu-ve-ca-ong-tien-than-tien.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ca-mun-2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ca-mun-21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ca-canh-buom-da-quang.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ca-canh-buom-2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ca-chuot-cafe-2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ca-binh-tich-tran-chau-5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\637420952709360780_GoldDoubloonMolly.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nhung-loai-ca-sac-so-1-390x220.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9c53bebd456af37c3030c07d0786c21e.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ca-da.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chim-cánh-cụt-300x221.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ca-da1.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

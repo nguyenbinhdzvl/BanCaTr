@@ -645,7 +645,7 @@
             // 
             // pictureBox15
             // 
-            this.pictureBox15.Image = global::Ca.Properties.Resources.download__2_;
+            this.pictureBox15.Image = global::Ca.Properties.Resources._9c53bebd456af37c3030c07d0786c21e;
             this.pictureBox15.Location = new System.Drawing.Point(846, 423);
             this.pictureBox15.Name = "pictureBox15";
             this.pictureBox15.Size = new System.Drawing.Size(189, 109);
@@ -655,7 +655,7 @@
             // 
             // pictureBox16
             // 
-            this.pictureBox16.Image = global::Ca.Properties.Resources._6ea6f87bd1266879a59c6d133d861616;
+            this.pictureBox16.Image = global::Ca.Properties.Resources.ca_binh_tich_tran_chau_5;
             this.pictureBox16.Location = new System.Drawing.Point(846, 219);
             this.pictureBox16.Name = "pictureBox16";
             this.pictureBox16.Size = new System.Drawing.Size(189, 109);
@@ -665,7 +665,7 @@
             // 
             // pictureBox17
             // 
-            this.pictureBox17.Image = global::Ca.Properties.Resources.hinh_nen_ca_betta;
+            this.pictureBox17.Image = global::Ca.Properties.Resources.gioi_thieu_ve_ca_ong_tien_than_tien;
             this.pictureBox17.Location = new System.Drawing.Point(846, 19);
             this.pictureBox17.Name = "pictureBox17";
             this.pictureBox17.Size = new System.Drawing.Size(189, 109);
@@ -675,7 +675,7 @@
             // 
             // pictureBox10
             // 
-            this.pictureBox10.Image = global::Ca.Properties.Resources.pngtree_blue_and_black_fighting_fish_is_shown_picture_image_26584781;
+            this.pictureBox10.Image = global::Ca.Properties.Resources.ca_da1;
             this.pictureBox10.Location = new System.Drawing.Point(580, 640);
             this.pictureBox10.Name = "pictureBox10";
             this.pictureBox10.Size = new System.Drawing.Size(189, 109);
@@ -695,7 +695,7 @@
             // 
             // pictureBox12
             // 
-            this.pictureBox12.Image = global::Ca.Properties.Resources.images__1_;
+            this.pictureBox12.Image = global::Ca.Properties.Resources.ca_chuot_cafe_2;
             this.pictureBox12.Location = new System.Drawing.Point(580, 219);
             this.pictureBox12.Name = "pictureBox12";
             this.pictureBox12.Size = new System.Drawing.Size(189, 109);
@@ -705,7 +705,7 @@
             // 
             // pictureBox13
             // 
-            this.pictureBox13.Image = global::Ca.Properties.Resources.Betta_Fish_Wallpapers;
+            this.pictureBox13.Image = global::Ca.Properties.Resources.ca_vang_bach_dinh_hong_300x200;
             this.pictureBox13.Location = new System.Drawing.Point(580, 19);
             this.pictureBox13.Name = "pictureBox13";
             this.pictureBox13.Size = new System.Drawing.Size(189, 109);
@@ -715,7 +715,7 @@
             // 
             // pictureBox6
             // 
-            this.pictureBox6.Image = global::Ca.Properties.Resources.download;
+            this.pictureBox6.Image = global::Ca.Properties.Resources.images1;
             this.pictureBox6.Location = new System.Drawing.Point(287, 640);
             this.pictureBox6.Name = "pictureBox6";
             this.pictureBox6.Size = new System.Drawing.Size(189, 109);
@@ -725,7 +725,7 @@
             // 
             // pictureBox7
             // 
-            this.pictureBox7.Image = global::Ca.Properties.Resources.images__2_;
+            this.pictureBox7.Image = global::Ca.Properties.Resources.nhung_loai_ca_sac_so_1_390x220;
             this.pictureBox7.Location = new System.Drawing.Point(287, 423);
             this.pictureBox7.Name = "pictureBox7";
             this.pictureBox7.Size = new System.Drawing.Size(189, 109);
@@ -735,7 +735,7 @@
             // 
             // pictureBox8
             // 
-            this.pictureBox8.Image = global::Ca.Properties.Resources.hinh_nen_ca_betta_1;
+            this.pictureBox8.Image = global::Ca.Properties.Resources.ca_canh_buom_2;
             this.pictureBox8.Location = new System.Drawing.Point(287, 219);
             this.pictureBox8.Name = "pictureBox8";
             this.pictureBox8.Size = new System.Drawing.Size(189, 109);
@@ -745,8 +745,8 @@
             // 
             // pictureBox9
             // 
-            this.pictureBox9.Image = global::Ca.Properties.Resources.unnamed;
-            this.pictureBox9.Location = new System.Drawing.Point(287, 19);
+            this.pictureBox9.Image = global::Ca.Properties.Resources.download1;
+            this.pictureBox9.Location = new System.Drawing.Point(287, 11);
             this.pictureBox9.Name = "pictureBox9";
             this.pictureBox9.Size = new System.Drawing.Size(189, 109);
             this.pictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -755,7 +755,7 @@
             // 
             // pictureBox4
             // 
-            this.pictureBox4.Image = global::Ca.Properties.Resources.hinh_nen_ca_betta_11;
+            this.pictureBox4.Image = global::Ca.Properties.Resources.chim_cánh_cụt_300x221;
             this.pictureBox4.Location = new System.Drawing.Point(-13, 640);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(189, 109);
@@ -765,7 +765,7 @@
             // 
             // pictureBox3
             // 
-            this.pictureBox3.Image = global::Ca.Properties.Resources.images;
+            this.pictureBox3.Image = global::Ca.Properties.Resources._637420952709360780_GoldDoubloonMolly;
             this.pictureBox3.Location = new System.Drawing.Point(-13, 423);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(189, 109);
@@ -775,7 +775,7 @@
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Image = global::Ca.Properties.Resources.Hinh_nen_ca_Betta_dep_nhat_2_326x580;
+            this.pictureBox2.Image = global::Ca.Properties.Resources.ca_mun_21;
             this.pictureBox2.Location = new System.Drawing.Point(0, 219);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(189, 109);
@@ -785,11 +785,11 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::Ca.Properties.Resources.pngtree_blue_and_black_fighting_fish_is_shown_picture_image_2658478;
+            this.pictureBox1.Image = global::Ca.Properties.Resources.unnamed1;
             this.pictureBox1.Location = new System.Drawing.Point(0, 11);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(189, 109);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
@@ -797,7 +797,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1811, 813);
+            this.ClientSize = new System.Drawing.Size(1604, 813);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Name = "MuaCa";

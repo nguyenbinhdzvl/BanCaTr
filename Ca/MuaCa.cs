@@ -73,13 +73,13 @@ namespace Ca
                 MessageBox.Show("Lỗi khi tải hình ảnh: " + ex.Message);
             }
             // Giá tiền của cá
-            decimal giaTien = 456; // Thay thế bằng giá tiền thực tế
+            decimal giaTien = 30; // Thay thế bằng giá tiền thực tế
 
             // Thông tin chung về cá
             string thongTinChung = "Phần thân cá cũng nhỏ, lưng có phần hơi gù, xung quanh phần lưng cho đến phần bụng được bao phủ bởi một lớp vảy óng ánh mềm mại. Điểm nhấn đặc biệt mà ai cũng thích ở cá đá là phần đuôi khá dài, có đa dạng kiểu cách và màu sắc khác nhau. Bên cạnh đó, loài cá này còn có thêm một cơ quan hô hấp được gọi là labyrinth";
 
             // Tên cá
-            string tenCa = "Tên cá của bạn"; // Thay thế bằng tên cá thực tế
+            string tenCa = "Cá Guppy"; // Thay thế bằng tên cá thực tế
 
             // Hiển thị giá tiền trong textBox19
             textBox20.Text = giaTien.ToString();
@@ -118,13 +118,13 @@ namespace Ca
                 MessageBox.Show("Lỗi khi tải hình ảnh: " + ex.Message);
             }
             // Giá tiền của cá
-            decimal giaTien = 50; // Thay thế bằng giá tiền thực tế
+            decimal giaTien = ; // Thay thế bằng giá tiền thực tế
 
             // Thông tin chung về cá
             string thongTinChung = "Phần thân cá cũng nhỏ, lưng có phần hơi gù, xung quanh phần lưng cho đến phần bụng được bao phủ bởi một lớp vảy óng ánh mềm mại. Điểm nhấn đặc biệt mà ai cũng thích ở cá đá là phần đuôi khá dài, có đa dạng kiểu cách và màu sắc khác nhau. Bên cạnh đó, loài cá này còn có thêm một cơ quan hô hấp được gọi là labyrinth";
 
             // Tên cá
-            string tenCa = "Tên cá của bạn"; // Thay thế bằng tên cá thực tế
+            string tenCa = "Cá Diếc Anh Đào"; // Thay thế bằng tên cá thực tế
 
             // Hiển thị giá tiền trong textBox19
             textBox20.Text = giaTien.ToString();
@@ -169,7 +169,7 @@ namespace Ca
             string thongTinChung = "Phần thân cá cũng nhỏ, lưng có phần hơi gù, xung quanh phần lưng cho đến phần bụng được bao phủ bởi một lớp vảy óng ánh mềm mại. Điểm nhấn đặc biệt mà ai cũng thích ở cá đá là phần đuôi khá dài, có đa dạng kiểu cách và màu sắc khác nhau. Bên cạnh đó, loài cá này còn có thêm một cơ quan hô hấp được gọi là labyrinth";
 
             // Tên cá
-            string tenCa = "Tên cá "; // Thay thế bằng tên cá thực tế
+            string tenCa = "Cá Ba Đuôi "; // Thay thế bằng tên cá thực tế
 
             // Hiển thị giá tiền trong textBox19
             textBox20.Text = giaTien.ToString();
@@ -214,7 +214,7 @@ namespace Ca
             string thongTinChung = "Phần thân cá cũng nhỏ, lưng có phần hơi gù, xung quanh phần lưng cho đến phần bụng được bao phủ bởi một lớp vảy óng ánh mềm mại. Điểm nhấn đặc biệt mà ai cũng thích ở cá đá là phần đuôi khá dài, có đa dạng kiểu cách và màu sắc khác nhau. Bên cạnh đó, loài cá này còn có thêm một cơ quan hô hấp được gọi là labyrinth";
 
             // Tên cá
-            string tenCa = "Tên cá của bạn"; // Thay thế bằng tên cá thực tế
+            string tenCa = "Cá Ông Tiên"; // Thay thế bằng tên cá thực tế
 
             // Hiển thị giá tiền trong textBox19
             textBox20.Text = giaTien.ToString();
@@ -260,7 +260,7 @@ namespace Ca
             string thongTinChung = "Phần thân cá cũng nhỏ, lưng có phần hơi gù, xung quanh phần lưng cho đến phần bụng được bao phủ bởi một lớp vảy óng ánh mềm mại. Điểm nhấn đặc biệt mà ai cũng thích ở cá đá là phần đuôi khá dài, có đa dạng kiểu cách và màu sắc khác nhau. Bên cạnh đó, loài cá này còn có thêm một cơ quan hô hấp được gọi là labyrinth";
 
             // Tên cá
-            string tenCa = "Tên cá của bạn"; // Thay thế bằng tên cá thực tế
+            string tenCa = "Cá Mún"; // Thay thế bằng tên cá thực tế
 
             // Hiển thị giá tiền trong textBox19
             textBox20.Text = giaTien.ToString();
@@ -305,7 +305,7 @@ namespace Ca
             string thongTinChung = "Phần thân cá cũng nhỏ, lưng có phần hơi gù, xung quanh phần lưng cho đến phần bụng được bao phủ bởi một lớp vảy óng ánh mềm mại. Điểm nhấn đặc biệt mà ai cũng thích ở cá đá là phần đuôi khá dài, có đa dạng kiểu cách và màu sắc khác nhau. Bên cạnh đó, loài cá này còn có thêm một cơ quan hô hấp được gọi là labyrinth";
 
             // Tên cá
-            string tenCa = "Tên cá của bạn"; // Thay thế bằng tên cá thực tế
+            string tenCa = "Cá Cánh Buồm"; // Thay thế bằng tên cá thực tế
 
             // Hiển thị giá tiền trong textBox19
             textBox20.Text = giaTien.ToString();
@@ -350,7 +350,7 @@ namespace Ca
             string thongTinChung = "Phần thân cá cũng nhỏ, lưng có phần hơi gù, xung quanh phần lưng cho đến phần bụng được bao phủ bởi một lớp vảy óng ánh mềm mại. Điểm nhấn đặc biệt mà ai cũng thích ở cá đá là phần đuôi khá dài, có đa dạng kiểu cách và màu sắc khác nhau. Bên cạnh đó, loài cá này còn có thêm một cơ quan hô hấp được gọi là labyrinth";
 
             // Tên cá
-            string tenCa = "Tên cá của bạn"; // Thay thế bằng tên cá thực tế
+            string tenCa = "Cá Chuột"; // Thay thế bằng tên cá thực tế
 
             // Hiển thị giá tiền trong textBox19
             textBox20.Text = giaTien.ToString();
@@ -395,7 +395,7 @@ namespace Ca
             string thongTinChung = "Phần thân cá cũng nhỏ, lưng có phần hơi gù, xung quanh phần lưng cho đến phần bụng được bao phủ bởi một lớp vảy óng ánh mềm mại. Điểm nhấn đặc biệt mà ai cũng thích ở cá đá là phần đuôi khá dài, có đa dạng kiểu cách và màu sắc khác nhau. Bên cạnh đó, loài cá này còn có thêm một cơ quan hô hấp được gọi là labyrinth";
 
             // Tên cá
-            string tenCa = "Tên cá của bạn"; // Thay thế bằng tên cá thực tế
+            string tenCa = "Cá Trân Châu"; // Thay thế bằng tên cá thực tế
 
             // Hiển thị giá tiền trong textBox19
             textBox20.Text = giaTien.ToString();
@@ -440,7 +440,7 @@ namespace Ca
             string thongTinChung = "Phần thân cá cũng nhỏ, lưng có phần hơi gù, xung quanh phần lưng cho đến phần bụng được bao phủ bởi một lớp vảy óng ánh mềm mại. Điểm nhấn đặc biệt mà ai cũng thích ở cá đá là phần đuôi khá dài, có đa dạng kiểu cách và màu sắc khác nhau. Bên cạnh đó, loài cá này còn có thêm một cơ quan hô hấp được gọi là labyrinth";
 
             // Tên cá
-            string tenCa = "Tên cá của bạn"; // Thay thế bằng tên cá thực tế
+            string tenCa = "Cá Molly"; // Thay thế bằng tên cá thực tế
 
             // Hiển thị giá tiền trong textBox19
             textBox20.Text = giaTien.ToString();
@@ -485,7 +485,7 @@ namespace Ca
             string thongTinChung = "Phần thân cá cũng nhỏ, lưng có phần hơi gù, xung quanh phần lưng cho đến phần bụng được bao phủ bởi một lớp vảy óng ánh mềm mại. Điểm nhấn đặc biệt mà ai cũng thích ở cá đá là phần đuôi khá dài, có đa dạng kiểu cách và màu sắc khác nhau. Bên cạnh đó, loài cá này còn có thêm một cơ quan hô hấp được gọi là labyrinth";
 
             // Tên cá
-            string tenCa = "Tên cá của bạn"; // Thay thế bằng tên cá thực tế
+            string tenCa = "Cá Sặc Gấm"; // Thay thế bằng tên cá thực tế
 
             // Hiển thị giá tiền trong textBox19
             textBox20.Text = giaTien.ToString();
@@ -530,7 +530,7 @@ namespace Ca
             string thongTinChung = "Phần thân cá cũng nhỏ, lưng có phần hơi gù, xung quanh phần lưng cho đến phần bụng được bao phủ bởi một lớp vảy óng ánh mềm mại. Điểm nhấn đặc biệt mà ai cũng thích ở cá đá là phần đuôi khá dài, có đa dạng kiểu cách và màu sắc khác nhau. Bên cạnh đó, loài cá này còn có thêm một cơ quan hô hấp được gọi là labyrinth";
 
             // Tên cá
-            string tenCa = "Tên cá của bạn"; // Thay thế bằng tên cá thực tế
+            string tenCa = "Cá Rồng"; // Thay thế bằng tên cá thực tế
 
             // Hiển thị giá tiền trong textBox19
             textBox20.Text = giaTien.ToString();
@@ -575,7 +575,7 @@ namespace Ca
             string thongTinChung = "Phần thân cá cũng nhỏ, lưng có phần hơi gù, xung quanh phần lưng cho đến phần bụng được bao phủ bởi một lớp vảy óng ánh mềm mại. Điểm nhấn đặc biệt mà ai cũng thích ở cá đá là phần đuôi khá dài, có đa dạng kiểu cách và màu sắc khác nhau. Bên cạnh đó, loài cá này còn có thêm một cơ quan hô hấp được gọi là labyrinth";
 
             // Tên cá
-            string tenCa = "Tên cá của bạn"; // Thay thế bằng tên cá thực tế
+            string tenCa = "Cá Neon"; // Thay thế bằng tên cá thực tế
 
             // Hiển thị giá tiền trong textBox19
             textBox20.Text = giaTien.ToString();
@@ -666,7 +666,7 @@ namespace Ca
             string thongTinChung = "Phần thân cá cũng nhỏ, lưng có phần hơi gù, xung quanh phần lưng cho đến phần bụng được bao phủ bởi một lớp vảy óng ánh mềm mại. Điểm nhấn đặc biệt mà ai cũng thích ở cá đá là phần đuôi khá dài, có đa dạng kiểu cách và màu sắc khác nhau. Bên cạnh đó, loài cá này còn có thêm một cơ quan hô hấp được gọi là labyrinth";
 
             // Tên cá
-            string tenCa = "Tên cá của bạn"; // Thay thế bằng tên cá thực tế
+            string tenCa = "Cá Bút Chì Thái"; // Thay thế bằng tên cá thực tế
 
             // Hiển thị giá tiền trong textBox19
             textBox20.Text = giaTien.ToString();
@@ -712,7 +712,7 @@ namespace Ca
             string thongTinChung = "Phần thân cá cũng nhỏ, lưng có phần hơi gù, xung quanh phần lưng cho đến phần bụng được bao phủ bởi một lớp vảy óng ánh mềm mại. Điểm nhấn đặc biệt mà ai cũng thích ở cá đá là phần đuôi khá dài, có đa dạng kiểu cách và màu sắc khác nhau. Bên cạnh đó, loài cá này còn có thêm một cơ quan hô hấp được gọi là labyrinth";
 
             // Tên cá
-            string tenCa = "Tên cá của bạn"; // Thay thế bằng tên cá thực tế
+            string tenCa = "Sọc Ngựa Cánh Tiên"; // Thay thế bằng tên cá thực tế
 
             // Hiển thị giá tiền trong textBox19
             textBox20.Text = giaTien.ToString();
